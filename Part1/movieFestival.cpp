@@ -9,7 +9,7 @@ using namespace std;
 then the send second earliest finishing in 
 which the beginning doesnt overlap, that way we find the most
 amount of intervals.*/ 
- 
+
 int main () {
     long long n;
     cin >> n;
