@@ -25,7 +25,7 @@ int main () {
 
     vector<long long> firstList;
     vector<long long> secondList;
-s
+
     
      while (halfAmount >= 0 && !values.empty()) {
         long long num = values.back(); 
